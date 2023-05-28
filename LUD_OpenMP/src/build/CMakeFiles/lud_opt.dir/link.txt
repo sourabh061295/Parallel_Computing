@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp CMakeFiles/lud_opt.dir/main.cpp.o -o lud_opt 

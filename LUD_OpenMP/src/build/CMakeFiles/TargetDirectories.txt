@@ -1,0 +1,5 @@
+/home/sourabh/Desktop/MPS/openmp_assignment_src/src/build/CMakeFiles/lud_seq.dir
+/home/sourabh/Desktop/MPS/openmp_assignment_src/src/build/CMakeFiles/lud_par.dir
+/home/sourabh/Desktop/MPS/openmp_assignment_src/src/build/CMakeFiles/lud_opt.dir
+/home/sourabh/Desktop/MPS/openmp_assignment_src/src/build/CMakeFiles/edit_cache.dir
+/home/sourabh/Desktop/MPS/openmp_assignment_src/src/build/CMakeFiles/rebuild_cache.dir

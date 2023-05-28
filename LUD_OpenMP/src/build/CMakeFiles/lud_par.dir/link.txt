@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp CMakeFiles/lud_par.dir/main.cpp.o -o lud_par 
